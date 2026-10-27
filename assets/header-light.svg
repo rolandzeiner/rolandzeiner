@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 260" width="960" height="260" role="img" aria-labelledby="t">
+  <title id="t">Roland Zeiner: freelance designer in Austria, Home Assistant integrations for Austrian open data</title>
+  <g transform="translate(40 30) scale(0.4)">
+    <polygon fill="#b71643" points="308,12 410,12 162,257 410,502 308,502 62,257"/>
+    <polygon fill="#d83559" points="106,12 205,12 450,257 205,502 106,502 351,257"/>
+    <polygon fill="#d83559" points="190,257 256,191 322,257 256,323"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+    <text x="270" y="118" font-size="64" font-weight="700" fill="#202020">Roland Zeiner</text>
+    <text x="272" y="166" font-size="26" fill="#57606a">Freelance designer in Austria.</text>
+    <text x="272" y="202" font-size="26" fill="#57606a">Home Assistant integrations for Austrian open data.</text>
+  </g>
+</svg>
