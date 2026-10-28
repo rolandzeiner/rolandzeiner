@@ -3,9 +3,9 @@
   <img alt="Roland Zeiner: freelance designer in Austria. Home Assistant integrations for Austrian open data." src="assets/header-light.svg" width="100%">
 </picture>
 
-Freelance media technician from Austria: graphic design, web design, WordPress and vector animation.
+Freelance media technician from Austria: graphic design, web design, Laravel (TALL Stack), WordPress, MadStack and vector animation.
 
-Here on GitHub I build [Home Assistant](https://www.home-assistant.io/) integrations for Austrian public data, plus a few Lovelace cards. Everything installs through HACS and speaks English and German.
+Here on GitHub I build [Home Assistant](https://www.home-assistant.io/) integrations for Austrian public data, plus a few Lovelace cards. Everything installs through the [Marketplace](https://www.home-assistant.io/integrations/marketplace/) and speaks English and German.
 
 [![rolandzeiner.at](https://img.shields.io/badge/rolandzeiner.at-b71643?style=flat-square)](https://www.rolandzeiner.at)
 [![Live demo](https://img.shields.io/badge/Live%20demo-b71643?style=flat-square)](https://demo.rolandzeiner.at)
