@@ -13,22 +13,22 @@ Here on GitHub I build [Home Assistant](https://www.home-assistant.io/) integrat
 ## Home Assistant integrations
 
 **Getting around**
-- [<img src="assets/icons/wiener-linien-austria.png" width="20" height="20" alt="" align="absmiddle"> wiener-linien-austria](https://github.com/rolandzeiner/wiener-linien-austria): live departures for Vienna's public transport
-- [<img src="assets/icons/linz-linien-austria.png" width="20" height="20" alt="" align="absmiddle"> linz-linien-austria](https://github.com/rolandzeiner/linz-linien-austria): live departures for LINZ AG LINIEN
-- [<img src="assets/icons/nextbike-austria.png" width="20" height="20" alt="" align="absmiddle"> nextbike-austria](https://github.com/rolandzeiner/nextbike-austria): nextbike stations in Vienna, Lower Austria, Tyrol, Linz and Klagenfurt
+- <a href="https://github.com/rolandzeiner/wiener-linien-austria"><img src="assets/icons/wiener-linien-austria.png" width="20" height="20" alt="" align="absmiddle"></a> [wiener-linien-austria](https://github.com/rolandzeiner/wiener-linien-austria): live departures for Vienna's public transport
+- <a href="https://github.com/rolandzeiner/linz-linien-austria"><img src="assets/icons/linz-linien-austria.png" width="20" height="20" alt="" align="absmiddle"></a> [linz-linien-austria](https://github.com/rolandzeiner/linz-linien-austria): live departures for LINZ AG LINIEN
+- <a href="https://github.com/rolandzeiner/nextbike-austria"><img src="assets/icons/nextbike-austria.png" width="20" height="20" alt="" align="absmiddle"></a> [nextbike-austria](https://github.com/rolandzeiner/nextbike-austria): nextbike stations in Vienna, Lower Austria, Tyrol, Linz and Klagenfurt
 
 **Fuel and charging**
-- [<img src="assets/icons/tankstellen-austria.png" width="20" height="20" alt="" align="absmiddle"> tankstellen-austria](https://github.com/rolandzeiner/tankstellen-austria): fuel prices from E-Control's Spritpreisrechner
-- [<img src="assets/icons/ladestellen-austria.png" width="20" height="20" alt="" align="absmiddle"> ladestellen-austria](https://github.com/rolandzeiner/ladestellen-austria): EV charging stations from E-Control's Ladestellenverzeichnis
+- <a href="https://github.com/rolandzeiner/tankstellen-austria"><img src="assets/icons/tankstellen-austria.png" width="20" height="20" alt="" align="absmiddle"></a> [tankstellen-austria](https://github.com/rolandzeiner/tankstellen-austria): fuel prices from E-Control's Spritpreisrechner
+- <a href="https://github.com/rolandzeiner/ladestellen-austria"><img src="assets/icons/ladestellen-austria.png" width="20" height="20" alt="" align="absmiddle"></a> [ladestellen-austria](https://github.com/rolandzeiner/ladestellen-austria): EV charging stations from E-Control's Ladestellenverzeichnis
 
 **Environment**
-- [<img src="assets/icons/badegewaesser-austria.png" width="20" height="20" alt="" align="absmiddle"> badegewaesser-austria](https://github.com/rolandzeiner/badegewaesser-austria): water quality at Austria's 260 official bathing sites (AGES)
+- <a href="https://github.com/rolandzeiner/badegewaesser-austria"><img src="assets/icons/badegewaesser-austria.png" width="20" height="20" alt="" align="absmiddle"></a> [badegewaesser-austria](https://github.com/rolandzeiner/badegewaesser-austria): water quality at Austria's 260 official bathing sites (AGES)
 
 ## Lovelace cards and tools
 
-- [<img src="assets/icons/austria-map-card.png" width="20" height="20" alt="" align="absmiddle"> austria-map-card](https://github.com/rolandzeiner/austria-map-card): zoomable map of Austria with provinces, districts and municipalities
-- [<img src="assets/icons/orrery-card.png" width="20" height="20" alt="" align="absmiddle"> orrery-card](https://github.com/rolandzeiner/orrery-card): the solar system in 3D, with real planet positions for any date
-- [<img src="assets/icons/spinning-wheel-card.png" width="20" height="20" alt="" align="absmiddle"> spinning-wheel-card](https://github.com/rolandzeiner/spinning-wheel-card): a prize wheel you can click or flick
-- [<img src="assets/icons/webcam-timelapse.png" width="20" height="20" alt="" align="absmiddle"> webcam-timelapse](https://github.com/rolandzeiner/webcam-timelapse): archives any webcam and lets you scrub back through it
+- <a href="https://github.com/rolandzeiner/austria-map-card"><img src="assets/icons/austria-map-card.png" width="20" height="20" alt="" align="absmiddle"></a> [austria-map-card](https://github.com/rolandzeiner/austria-map-card): zoomable map of Austria with provinces, districts and municipalities
+- <a href="https://github.com/rolandzeiner/orrery-card"><img src="assets/icons/orrery-card.png" width="20" height="20" alt="" align="absmiddle"></a> [orrery-card](https://github.com/rolandzeiner/orrery-card): the solar system in 3D, with real planet positions for any date
+- <a href="https://github.com/rolandzeiner/spinning-wheel-card"><img src="assets/icons/spinning-wheel-card.png" width="20" height="20" alt="" align="absmiddle"></a> [spinning-wheel-card](https://github.com/rolandzeiner/spinning-wheel-card): a prize wheel you can click or flick
+- <a href="https://github.com/rolandzeiner/webcam-timelapse"><img src="assets/icons/webcam-timelapse.png" width="20" height="20" alt="" align="absmiddle"></a> [webcam-timelapse](https://github.com/rolandzeiner/webcam-timelapse): archives any webcam and lets you scrub back through it
 
 Found a bug or have an idea? Open an issue in the project's repository.
